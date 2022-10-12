@@ -13,16 +13,13 @@ Game trắc nghiệm thi đấu đối kháng
   - Không ai đúng hết thì hòa, được cộng 0,5 điểm.
   - Thua, không cộng không trừ điểm.
 - Xem kết quả chơi, và gửi lời mời tiếp tục chơi/ thoát.
-# 3. Hướng dẫn cài đặt và chạy trên môi trường phát triển
-- Clone repo: https://github.com/nvduong97/GameTracNhiem
-- Cài đặt SQL Server:
+# 3. Hướng dẫn cài đặt và chạy trên môi trường phát tri
+- Cài đặt Mysql workbench
   - databaseName = Game
-  - Username: sa
-  - Password: 1234
-  - File import data: https://github.com/nvduong97/GameTracNhiem/blob/master/GameTracNghiem.sql
-- IDE: NetBeans IDE 8.2 và SQL Server Management Studio 2014
+  - Username: root
+  - Password: 123456789
+- IDE: NetBeans IDE và Mysql workbench
 - Run Server: Main.java
 - Run Client: LoginForm.java
-- Thông tin liên hệ
-  - Email: duong97ptit@gmail.com
+
 
